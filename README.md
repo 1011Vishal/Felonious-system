@@ -4,10 +4,10 @@
 References Links:
 
 https://github.com/souvikdc9/aadhaarapi.net/tree/master/Source/Uidai.Aadhaar.Sample
-
 https://github.com/samuel13b/AndroidTensorflowTutorial
+
 USER Link:
-https://mumbaipolice.gov.in/CrimeStatistics    (DATA)
+https://mumbaipolice.gov.in/CrimeStatistics (DATA)
 https://citizen.mahapolice.gov.in/Citizen/MH/index.aspx
 https://citizen.mahapolice.gov.in/Citizen/MH/MobileMissingForm.aspx
 
